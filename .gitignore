@@ -13,6 +13,9 @@
 /.next/
 /out/
 
+# hide .enc file
+.env
+
 # production
 /build
 
