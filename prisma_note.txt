@@ -1,0 +1,11 @@
+npm i prisma
+npx primsa init
+npm i @prisma/client
+
+
+
+-------- Après avoir défini les tables et les relations
+npx primsa generate
+
+-------- Pour créer les tables dans la db
+npx primsa db push
